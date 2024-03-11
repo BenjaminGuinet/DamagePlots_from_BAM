@@ -1,4 +1,4 @@
-# GENOMES TO MSA 
+# BAM TO DAMAGE PLOTS 
 
 ## Description
 
@@ -22,6 +22,8 @@ Other files correspond to amber and pydamage outputs.
 ______________
 
 ## Output PDF example : 
+
+[View the PDF](./path/to/your/example.pdf)
 
 [NoDup_sorted_filterBAM_quality_filtred_Yersinia_pestis_control.bam_dna_damage_plots.pdf](https://github.com/BenjaminGuinet/DamagePlots_from_BAM/files/14565367/NoDup_sorted_filterBAM_quality_filtred_Yersinia_pestis_control.bam_dna_damage_plots.pdf)
 
