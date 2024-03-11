@@ -1,2 +1,28 @@
-# DamagePlots_from_BAM
-Generate one PDF with different plots including read length, read % ID PMD scores, Damage plot and Eveness of coverage along the refence genome
+# GENOMES TO MSA 
+
+## Description
+
+This script converts a bam file into a PDF file with multiple plots including reads as well as damage informations.
+
+You will need Amber, Picard, samtools, PDFtools as well as multiple python packages (see header of the .py script) to be installed. 
+
+## Usage Example
+
+```
+python3 Make_multiple_plotV2.py -b Yersinia_pestis_control.bam 
+```
+______________
+
+## Main outputfiles :
+
+- ***NoDup_sorted_filterBAM_quality_filtred_Yersinia_pestis_control_dna_damage.csv*** :  CSV file output with many important informations.
+- ***NoDup_sorted_filterBAM_quality_filtred_Yersinia_pestis_control_dna_damage.pdf*** :  PDF file output with the plots.
+
+Other files correspond to amber and pydamage outputs. 
+______________
+
+## Output PDF example : 
+
+[NoDup_sorted_filterBAM_quality_filtred_Yersinia_pestis_control.bam_dna_damage_plots.pdf](https://github.com/BenjaminGuinet/DamagePlots_from_BAM/files/14565367/NoDup_sorted_filterBAM_quality_filtred_Yersinia_pestis_control.bam_dna_damage_plots.pdf)
+
+
