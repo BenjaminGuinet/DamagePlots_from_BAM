@@ -23,6 +23,7 @@ ______________
 
 ## Output PDF example : 
 
-[View the PDF]([./path/to/your/example.pdf](https://github.com/BenjaminGuinet/DamagePlots_from_BAM/blob/main/NoDup_sorted_filterBAM_quality_filtred_Yersinia_pestis_control.bam_dna_damage_plots.pdf))
+[View the PDF](https://github.com/BenjaminGuinet/DamagePlots_from_BAM/blob/main/NoDup_sorted_filterBAM_quality_filtred_Yersinia_pestis_control.bam_dna_damage_plots.pdf)
+
 
 
