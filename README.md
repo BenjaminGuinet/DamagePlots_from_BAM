@@ -4,6 +4,8 @@
 
 This script converts a bam file into a PDF file with multiple plots including reads as well as damage informations.
 
+The plots were hilghy inspired from the ameta outputs (Pochon et al 2024). 
+
 You will need Amber, Picard, samtools, PDFtools as well as multiple python packages (see header of the .py script) to be installed. 
 
 ## Usage Example
